@@ -6,6 +6,6 @@ I am a postdoc researcher at the National University of Defense Technology, coll
 
 My research mainly focuses on 1) Large Language Models 2) Information Extraction, and 3) Cultural Computation.
 
-🔭 I'm interested in Artificial Intelligence and Natural Language Processing.
-💻 Coding with Python, familiar with PyTorch.
-💬 Welcome to contact me by email ↙️.
+###　🔭 I'm interested in Artificial Intelligence and Natural Language Processing.
+###　💻 Coding with Python, familiar with PyTorch.
+###　💬 Welcome to contact me by email ↙️.
